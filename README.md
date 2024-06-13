@@ -71,7 +71,7 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
 - [Online version]()
 
 ## Contacts
-For more information and/or assistance, contact <INSERT CONTACT NAME> at <INSERT CONTACT EMAIL> or submit a repository [issue request](<INSERT REPOSITORY ISSUES URL>).
+For more information and/or assistance, contact Emma Griffiths at emma_griffiths@sfu.ca or submit a repository [issue request](https://github.com/cidgoh/H5N1_Contextual_Data_Specification/issues).
 
 ## License
 
