@@ -29,7 +29,7 @@ Ontologies are collections of controlled vocabulary that are arranged in a hiera
 
 ## The H5N1 Contextual Data Specification Package
 
-This specification is implemented via <spreadsheet-based data collection instrument, a DataHarmonizer validation template, other...>, accompanying **Field** and **Term reference guides** (which provide definitions and additional specific guidance) and a curation **Standard Operating Procedure (SOP)**. New terms and/or term changes can be requested using issue request forms, with additional guidance on how to do so outline in the New Term Request (NTR) SOP. This resources are available in the files of this repository and listed below under **Package Contents**.
+This specification is implemented via a DataHarmonizer validation template, with accompanying **Field** and **Term reference guides** (which provide definitions and additional specific guidance) and a curation **Standard Operating Procedure (SOP)**. New terms and/or term changes can be requested using issue request forms, with additional guidance on how to do so outline in the New Term Request (NTR) SOP. This resources are available in the files of this repository and listed below under **Package Contents**.
 
 ### Version Control
 
