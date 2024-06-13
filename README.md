@@ -1,4 +1,4 @@
-# The <insert name> Contextual Data Specification
+# The HPAI Contextual Data Specification
 
   - [About](#about)
   - [What are ontologies and how do they improve data quality?](#what-are-ontologies-and-how-do-they-improve-data-quality)
@@ -16,7 +16,7 @@
 
 ## About
 
-This data specification harmonizes contextual data to support the monitoring of H5N1, developed in collaboration with [Public Health Alliance for Genomic Epidemiology (PHA4GE)](https://pha4ge.org/). The specification aims to facilitate comprehensive monitoring by providing standardized, ontology-based fields and terms. Implemented through the DataHarmonizer tool, it is designed to ensure consistency and accuracy in data collection and analysis. Comprehensive field and reference guides, along with various curation and new term request SOPs, support its implementation.
+This data specification harmonizes contextual data to support the monitoring of Highly Pathogenic Avian Influenza virus, developed in collaboration with [Public Health Alliance for Genomic Epidemiology (PHA4GE)](https://pha4ge.org/). The specification aims to facilitate comprehensive monitoring by providing standardized, ontology-based fields and terms. Implemented through the DataHarmonizer tool, it is designed to ensure consistency and accuracy in data collection and analysis. Comprehensive field and reference guides, along with various curation and new term request SOPs, support its implementation.
 
 <Blurb>
 <SETUP: you'll need to manual create "term request" and "field request" labels in order for the issue forms to apply them when generated. You'll also want to go through documentation and replace all the <INSERT values with appropriate information.>
@@ -39,13 +39,13 @@ Please note that development of the specification is dynamic and it will be upda
 `y` = Term value / ID level changes <br>
 `z` = Definition, guidance, example, formatting, or other uncategorized changes
 
-Descriptions of changes are provided in [release notes](https://github.com/cidgoh/<INSERT REPOSITORY NAME>/releases) for every new version.
+Descriptions of changes are provided in [release notes](https://github.com/cidgoh/HPAI/releases) for every new version.
 
 ### Package Contents
 
 #### Data Collection Template
 - [Pathogen Genomics Package (**H5N1**)](https://github.com/cidgoh/pathogen-genomics-package/releases)
-  - Template schema files can be found as `.yaml`/`.json`/`.tsv` under [pathogen-genomics-package/templates/](https://github.com/cidgoh/pathogen-genomics-package/tree/main/templates)**H5N1**
+  - Template schema files can be found as `.yaml`/`.json`/`.tsv` under [pathogen-genomics-package/templates/](https://github.com/cidgoh/pathogen-genomics-package/tree/main/templates)**HPAI**
 - [DataHarmonizer App](https://github.com/cidgoh/DataHarmonizer)
   - The DataHarmonizer is a standardized browser-based spreadsheet editor and validator.
   - Instructions on "Getting Started" downloading and using the application can be found under **DataHarmonizer Instructions and SOP** below.
