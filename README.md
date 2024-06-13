@@ -16,6 +16,8 @@
 
 ## About
 
+This data specification harmonizes contextual data to support the monitoring of H5N1, developed in collaboration with [Public Health Alliance for Genomic Epidemiology (PHA4GE)](https://pha4ge.org/). The specification aims to facilitate comprehensive monitoring by providing standardized, ontology-based fields and terms. Implemented through the DataHarmonizer tool, it is designed to ensure consistency and accuracy in data collection and analysis. Comprehensive field and reference guides, along with various curation and new term request SOPs, support its implementation.
+
 <Blurb>
 <SETUP: you'll need to manual create "term request" and "field request" labels in order for the issue forms to apply them when generated. You'll also want to go through documentation and replace all the <INSERT values with appropriate information.>
 
@@ -25,7 +27,7 @@ Labs collect, encode and store information in different ways. They use different
 
 Ontologies are collections of controlled vocabulary that are arranged in a hierarchy, where all the terms are linked using logical relationships. Ontologies are open source and meant to represent “universal truth” as much as possible (so not tied to one organization’s vocabulary of use case). Ontologies encode synonyms, which enables mapping between the specific languages used by different organizations, and every term in the ontology is assigned a globally unique and persistent identifier. Using ontology terms to standardize GRDI-AMR contextual data not only helps make data more interoperable by using a common language, it also helps to make contextual data [FAIR](https://www.go-fair.org/fair-principles/) (Findable, Accessible, Interoperable, Reusable).
 
-## The <insert name> Contextual Data Specification Package
+## The H5N1 Contextual Data Specification Package
 
 This specification is implemented via <spreadsheet-based data collection instrument, a DataHarmonizer validation template, other...>, accompanying **Field** and **Term reference guides** (which provide definitions and additional specific guidance) and a curation **Standard Operating Procedure (SOP)**. New terms and/or term changes can be requested using issue request forms, with additional guidance on how to do so outline in the New Term Request (NTR) SOP. This resources are available in the files of this repository and listed below under **Package Contents**.
 
@@ -42,8 +44,8 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
 ### Package Contents
 
 #### Data Collection Template
-- [Pathogen Genomics Package (**<INSERT SPEC TEMPLATE NAME>**)](https://github.com/cidgoh/pathogen-genomics-package/releases)
-  - Template schema files can be found as `.yaml`/`.json`/`.tsv` under [pathogen-genomics-package/templates/](https://github.com/cidgoh/pathogen-genomics-package/tree/main/templates)**<INSERT SPEC TEMPLATE FOLDER NAME>**
+- [Pathogen Genomics Package (**H5N1**)](https://github.com/cidgoh/pathogen-genomics-package/releases)
+  - Template schema files can be found as `.yaml`/`.json`/`.tsv` under [pathogen-genomics-package/templates/](https://github.com/cidgoh/pathogen-genomics-package/tree/main/templates)**H5N1**
 - [DataHarmonizer App](https://github.com/cidgoh/DataHarmonizer)
   - The DataHarmonizer is a standardized browser-based spreadsheet editor and validator.
   - Instructions on "Getting Started" downloading and using the application can be found under **DataHarmonizer Instructions and SOP** below.
