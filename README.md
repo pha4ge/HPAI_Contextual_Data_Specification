@@ -46,7 +46,7 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
 ### Package Contents
 
 #### Data Collection Template
-- [Pathogen Genomics Package (**H5N1**)](https://github.com/cidgoh/pathogen-genomics-package/releases)
+- [Pathogen Genomics Package (**HPAI**)](https://github.com/cidgoh/pathogen-genomics-package/releases)
   - Template schema files can be found as `.yaml`/`.json`/`.tsv` under [pathogen-genomics-package/templates/](https://github.com/cidgoh/pathogen-genomics-package/tree/main/templates)**HPAI**
 - [DataHarmonizer App](https://github.com/cidgoh/DataHarmonizer)
   - The DataHarmonizer is a standardized browser-based spreadsheet editor and validator.
@@ -73,7 +73,7 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
 - [Online version]()
 
 ## Contacts
-For more information and/or assistance, contact Emma Griffiths at emma_griffiths@sfu.ca or submit a repository [issue request](https://github.com/cidgoh/H5N1_Contextual_Data_Specification/issues).
+For more information and/or assistance, contact Emma Griffiths at emma_griffiths@sfu.ca or submit a repository [issue request](https://github.com/cidgoh/HPAI_Contextual_Data_Specification/issues).
 
 ## License
 
