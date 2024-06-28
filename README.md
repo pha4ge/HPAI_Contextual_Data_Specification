@@ -27,9 +27,11 @@ Labs collect, encode and store information in different ways. They use different
 
 Ontologies are collections of controlled vocabulary that are arranged in a hierarchy, where all the terms are linked using logical relationships. Ontologies are open source and meant to represent “universal truth” as much as possible (so not tied to one organization’s vocabulary of use case). Ontologies encode synonyms, which enables mapping between the specific languages used by different organizations, and every term in the ontology is assigned a globally unique and persistent identifier. Using ontology terms to standardize GRDI-AMR contextual data not only helps make data more interoperable by using a common language, it also helps to make contextual data [FAIR](https://www.go-fair.org/fair-principles/) (Findable, Accessible, Interoperable, Reusable).
 
-## The H5N1 Contextual Data Specification Package
+## The HPAI Contextual Data Specification Package
 
-This specification is implemented via a DataHarmonizer validation template, with accompanying **Field** and **Term reference guides** (which provide definitions and additional specific guidance) and a curation **Standard Operating Procedure (SOP)**. New terms and/or term changes can be requested using issue request forms, with additional guidance on how to do so outline in the New Term Request (NTR) SOP. This resources are available in the files of this repository and listed below under **Package Contents**.
+This specification is currently implemented via a DataHarmonizer validation template, with accompanying **Field** and **Term reference guides** (which provide definitions and additional specific guidance) and a curation **Standard Operating Procedure (SOP)**. Please note, this specification is not only available in the DataHarmonizer and can be implemented in any data capture tool, please refer to the field and term reference guides for the data types and picklists.
+
+New terms and/or term changes can be requested through GitHub using the [issue request forms](https://github.com/cidgoh/HPAI_Contextual_Data_Specification/issues/new/choose), with additional guidance on how to do so outline in the New Term Request (NTR) SOP. This resources are available in the files of this repository and listed below under **Package Contents**.
 
 ### Version Control
 
@@ -79,6 +81,6 @@ _Pending / To Be Determined_
 
 ## Acknowledgements
 
-Brought to you by The [Centre for Infectious disease Genomics and One Health](https://cidgoh.ca/)<and INSERT COLLABORATOR NAMES>
+Brought to you by The [Centre for Infectious disease Genomics and One Health](https://cidgoh.ca/) and [Public Health Alliance for Genomic Epidemiology(PHA4GE)](https://pha4ge.org/)
 
 ![LogoCIDGOH2](https://github.com/cidgoh/specification-repo-template/assets/48695054/87fa713d-8fd7-453d-8542-fc413069e842)
