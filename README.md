@@ -1,8 +1,9 @@
-**Disclaimer**: This repository is in an early draft stage and is actively being developed. Expect changes and updates as the project progresses.
+**Disclaimer**: This repository is in an early draft stage and is actively being developed. Expect frequent changes, updates, and potentially significant revisions as the project progresses. Feedback and contributions are welcome, but please be aware of the evolving nature of the specification at this stage.
 
 # The HPAI Contextual Data Specification
 
   - [About](#about)
+	-[Contribution Guidelines](#contribution-guidelines)
   - [What are ontologies and how do they improve data quality?](#what-are-ontologies-and-how-do-they-improve-data-quality)
   - [The HPAI Contextual Data Specification Package](#the-hpai-contextual-data-specification-package)
     - [Version Control](#version-control)
@@ -19,6 +20,9 @@
 ## About
 
 This draft data specification harmonizes contextual data to support the monitoring of Highly Pathogenic Avian Influenza virus. Developed in collaboration with [Public Health Alliance for Genomic Epidemiology (PHA4GE)](https://pha4ge.org/), it provides standardized, ontology-based fields and terms aimed at facilitating comprehensive, accurate, and consistent data collection. Currently implemented through the DataHarmonizer tool, the specification is designed to be adaptable for use in other tools. Supporting resources include detailed field and reference guides, as well as SOPs for data curation and new term requests.
+
+### Contribution Guidelines
+We encourage feedback and contributions to improve the specification. However, please note that this is a *work in progress*, and the structure and content are likely to change as the project evolves. If you would like to contribute or propose changes, please open an issue or submit a pull request, or alternatively contact Emma Griffiths at emma_griffiths@sfu.ca
 
 ## What are ontologies and how do they improve data quality?
 
