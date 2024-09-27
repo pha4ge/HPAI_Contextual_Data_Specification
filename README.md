@@ -1,8 +1,10 @@
+**Disclaimer**: This repository is in an early draft stage and is actively being developed. Expect changes and updates as the project progresses.
+
 # The HPAI Contextual Data Specification
 
   - [About](#about)
   - [What are ontologies and how do they improve data quality?](#what-are-ontologies-and-how-do-they-improve-data-quality)
-  - [The  Contextual Data Specification Package](#the--contextual-data-specification-package)
+  - [The HPAI Contextual Data Specification Package](#the-hpai-contextual-data-specification-package)
     - [Version Control](#version-control)
     - [Package Contents](#package-contents)
       - [Data Collection Template](#data-collection-template)
@@ -16,10 +18,7 @@
 
 ## About
 
-This data specification harmonizes contextual data to support the monitoring of Highly Pathogenic Avian Influenza virus, developed in collaboration with [Public Health Alliance for Genomic Epidemiology (PHA4GE)](https://pha4ge.org/). The specification aims to facilitate comprehensive monitoring by providing standardized, ontology-based fields and terms. Implemented through the DataHarmonizer tool, it is designed to ensure consistency and accuracy in data collection and analysis. Comprehensive field and reference guides, along with various curation and new term request SOPs, support its implementation.
-
-<Blurb>
-<SETUP: you'll need to manual create "term request" and "field request" labels in order for the issue forms to apply them when generated. You'll also want to go through documentation and replace all the <INSERT values with appropriate information.>
+This draft data specification harmonizes contextual data to support the monitoring of Highly Pathogenic Avian Influenza virus. Developed in collaboration with [Public Health Alliance for Genomic Epidemiology (PHA4GE)](https://pha4ge.org/), it provides standardized, ontology-based fields and terms aimed at facilitating comprehensive, accurate, and consistent data collection. Currently implemented through the DataHarmonizer tool, the specification is designed to be adaptable for use in other tools. Supporting resources include detailed field and reference guides, as well as SOPs for data curation and new term requests.
 
 ## What are ontologies and how do they improve data quality?
 
@@ -54,26 +53,23 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
   - Further information about application functionality can be found on the [DataHarmonizer Wiki](https://github.com/cidgoh/pathogen-genomics-package/wiki/DataHarmonizer-Getting-Started).
 
 #### Field and Term Reference Guides
-- [XLSX version]()
+- [XLSX version]() **to be added**
 - PDF version
-  - [Field Reference Guide]()
-  - [Term Reference Guide]()
+  - [Field Reference Guide]() **to be added**
+  - [Term Reference Guide]() **to be added**
 - [Online version]()
 
-#### Curation SOP
-- [PDF version]()
-- [Online version]()
+#### Curation and DataHarmonizer SOP
+- [PDF version]() **to be added**
+- [Online version]() **to be added**
 
-#### DataHarmonizer Instructions and SOP
-- [PDF version]()
-- [Online version]()
 
 #### New Term Request (NTR) SOP
-- [PDF version]()
-- [Online version]()
+- [PDF version]() **to be added**
+- [Online version]() **to be added**
 
 ## Contacts
-For more information and/or assistance, contact Emma Griffiths at emma_griffiths@sfu.ca or submit a repository [issue request](https://github.com/cidgoh/HPAI_Contextual_Data_Specification/issues).
+For more information and/or assistance, contact Emma Griffiths at emma_griffiths@sfu.ca or submit a repository [issue request](https://github.com/PHA4GE/HPAI_Contextual_Data_Specification/issues).
 
 ## License
 
