@@ -60,18 +60,23 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
 
 #### Field and Term Reference Guides
 The HPAI contextual data specification has been subset into four different use case templates. These are for environmental samples, food samples, wastewater samples and host specific samples.
-- [XLSX version](https://github.com/cidgoh/HPAI_Contextual_Data_Specification/blob/main/Reference%20Guide/HPAI_Master-Reference-Guide_v1.0.0.xlsx)
-- PDF version
-  - [Master Field Reference Guide](https://github.com/cidgoh/HPAI_Contextual_Data_Specification/blob/main/Reference%20Guide/HPAI_Master-Field-Reference-Guide_v1.0.0.pdf)
-  	- [Environmental Field Reference Guide](https://github.com/cidgoh/HPAI_Contextual_Data_Specification/blob/main/Reference%20Guide/HPAI-Enviro_Field-Reference-Guide_v1.0.0.pdf)
-   	- [Food Field Reference Guide](https://github.com/cidgoh/HPAI_Contextual_Data_Specification/blob/main/Reference%20Guide/HPAI-Food_Field-Reference-Guide_v1.0.0.pdf)
-    	- [Host Field Reference Guide](https://github.com/cidgoh/HPAI_Contextual_Data_Specification/blob/main/Reference%20Guide/HPAI-Host_Field-Reference-Guide_v1.0.0.pdf)
-    	- [Wastewater Field Reference Guide](https://github.com/cidgoh/HPAI_Contextual_Data_Specification/blob/main/Reference%20Guide/HPAI-WW_Field-Reference-Guide_v1.0.0.pdf)
-  - [Term Reference Guide](https://github.com/pha4ge/HPAI_Contextual_Data_Specification/blob/main/Reference%20Guide/HPAI_Master-Term-Reference-Guide_v1.0.0.pdf)
+
+*XLSX version*
+
+[Master Field and Term Reference Guide](https://github.com/cidgoh/HPAI_Contextual_Data_Specification/blob/main/Reference%20Guide/HPAI_Master-Reference-Guide_v1.0.0.xlsx)
+
+*PDF version*
+- [Master Field Reference Guide](https://github.com/cidgoh/HPAI_Contextual_Data_Specification/blob/main/Reference%20Guide/HPAI_Master-Field-Reference-Guide_v1.0.0.pdf)
+	- [Environmental Field Reference Guide](https://github.com/cidgoh/HPAI_Contextual_Data_Specification/blob/main/Reference%20Guide/HPAI-Enviro_Field-Reference-Guide_v1.0.0.pdf)
+ 	- [Food Field Reference Guide](https://github.com/cidgoh/HPAI_Contextual_Data_Specification/blob/main/Reference%20Guide/HPAI-Food_Field-Reference-Guide_v1.0.0.pdf)
+  	- [Host Field Reference Guide](https://github.com/cidgoh/HPAI_Contextual_Data_Specification/blob/main/Reference%20Guide/HPAI-Host_Field-Reference-Guide_v1.0.0.pdf)
+  	- [Wastewater Field Reference Guide](https://github.com/cidgoh/HPAI_Contextual_Data_Specification/blob/main/Reference%20Guide/HPAI-WW_Field-Reference-Guide_v1.0.0.pdf)
+- [Term Reference Guide](https://github.com/pha4ge/HPAI_Contextual_Data_Specification/blob/main/Reference%20Guide/HPAI_Master-Term-Reference-Guide_v1.0.0.pdf)
+  
 
 #### Curation and DataHarmonizer SOP
-- [PDF version]() **to be added**
-- [Online version]() **to be added**
+- [PDF version](https://github.com/cidgoh/HPAI_Contextual_Data_Specification/blob/main/SOPs/HPAI_Contextual-Data-Curation-SOP_v1.0.0.pdf)
+- [Online version](https://docs.google.com/document/d/e/2PACX-1vS126HVx1oXOk_9CMdtRDSN-YSbt7FaV7yR-yBT42F9FGvcjvkyDQJpAa-36crLvg/pub)
 
 #### New Term Request (NTR) SOP
 - [PDF version]() **to be added**
