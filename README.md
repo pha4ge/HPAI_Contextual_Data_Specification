@@ -64,9 +64,10 @@ The HPAI contextual data specification has been subset into four different use c
 - PDF version
   - [Master Field Reference Guide](https://github.com/cidgoh/HPAI_Contextual_Data_Specification/blob/main/Reference%20Guide/HPAI_Master-Field-Reference-Guide_v1.0.0.pdf)
   	- [Environmental Field Reference Guide](https://github.com/cidgoh/HPAI_Contextual_Data_Specification/blob/main/Reference%20Guide/HPAI-Enviro_Field-Reference-Guide_v1.0.0.pdf)
+     
    	- [Food Field Reference Guide](https://github.com/cidgoh/HPAI_Contextual_Data_Specification/blob/main/Reference%20Guide/HPAI-Food_Field-Reference-Guide_v1.0.0.pdf)
-    	- [Host Field Reference Guide](https://github.com/cidgoh/HPAI_Contextual_Data_Specification/blob/main/Reference%20Guide/HPAI-Host_Field-Reference-Guide_v1.0.0.pdf)
-    	- [Wastewater Field Reference Guide](https://github.com/cidgoh/HPAI_Contextual_Data_Specification/blob/main/Reference%20Guide/HPAI-WW_Field-Reference-Guide_v1.0.0.pdf)
+      
+        
   - [Term Reference Guide](https://github.com/pha4ge/HPAI_Contextual_Data_Specification/blob/main/Reference%20Guide/HPAI_Master-Term-Reference-Guide_v1.0.0.pdf)
 
 #### Curation and DataHarmonizer SOP
