@@ -5,7 +5,7 @@
 # The HPAI Contextual Data Specification
 
   - [About](#about)
-	-[Contribution Guidelines](#contribution-guidelines)
+	- [Contribution Guidelines](#contribution-guidelines)
   - [What are ontologies and how do they improve data quality?](#what-are-ontologies-and-how-do-they-improve-data-quality)
   - [The HPAI Contextual Data Specification Package](#the-hpai-contextual-data-specification-package)
     - [Version Control](#version-control)
