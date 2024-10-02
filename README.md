@@ -59,12 +59,15 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
   - Further information about application functionality can be found on the [DataHarmonizer Wiki](https://github.com/cidgoh/pathogen-genomics-package/wiki/DataHarmonizer-Getting-Started).
 
 #### Field and Term Reference Guides
+The HPAI contextual data specification has been subset into four different use case templates. These are for environmental samples, food samples, wastewater samples and host specific samples.
 - [XLSX version]() **to be added**
 - PDF version
-  - [Field Reference Guide]() **to be added**
-  - [Term Reference Guide]() **to be added**
-- [Online version]()
-
+  - [Master Field Reference Guide](https://github.com/cidgoh/HPAI_Contextual_Data_Specification/blob/main/Reference%20Guide/HPAI_Master-Field-Reference-Guide_v1.0.0.pdf)
+  	- [Environmental Field Reference Guide](https://github.com/cidgoh/HPAI_Contextual_Data_Specification/blob/main/Reference%20Guide/HPAI-Enviro_Field-Reference-Guide_v1.0.0.pdf)
+   	- [Food Field Reference Guide](https://github.com/cidgoh/HPAI_Contextual_Data_Specification/blob/main/Reference%20Guide/HPAI-Food_Field-Reference-Guide_v1.0.0.pdf)
+    	- [Host Field Reference Guide](https://github.com/cidgoh/HPAI_Contextual_Data_Specification/blob/main/Reference%20Guide/HPAI-Host_Field-Reference-Guide_v1.0.0.pdf)
+    	- [Wastewater Field Reference Guide](https://github.com/cidgoh/HPAI_Contextual_Data_Specification/blob/main/Reference%20Guide/HPAI-WW_Field-Reference-Guide_v1.0.0.pdf)
+  - [Term Reference Guide](https://github.com/pha4ge/HPAI_Contextual_Data_Specification/blob/main/Reference%20Guide/HPAI_Master-Term-Reference-Guide_v1.0.0.pdf)
 #### Curation and DataHarmonizer SOP
 - [PDF version]() **to be added**
 - [Online version]() **to be added**
