@@ -21,7 +21,7 @@
 
 ## About
 
-This draft data specification harmonizes contextual data to support the monitoring of Highly Pathogenic Avian Influenza virus. Developed in collaboration with [Public Health Alliance for Genomic Epidemiology (PHA4GE)](https://pha4ge.org/), it provides standardized, ontology-based fields and terms aimed at facilitating comprehensive, accurate, and consistent data collection. Currently implemented through the DataHarmonizer tool, the specification is designed to be adaptable for use in other tools. Supporting resources include detailed field and reference guides, as well as SOPs for data curation and new term requests.
+This draft data specification harmonizes contextual data to support the monitoring of Highly Pathogenic Avian Influenza virus (HPAI). Developed in collaboration with [Public Health Alliance for Genomic Epidemiology (PHA4GE)](https://pha4ge.org/), it provides standardized, ontology-based fields and terms aimed at facilitating comprehensive, accurate, and consistent data collection. Currently implemented through the DataHarmonizer tool, the specification is designed to be adaptable for use in other tools. Supporting resources include detailed field and reference guides, as well as SOPs for data curation and new term requests.
 
 ### Contribution Guidelines
 We encourage feedback and contributions to improve the specification. However, please note that this is a *work in progress*, and the structure and content are likely to change as the project evolves. If you would like to contribute or propose changes, please open an issue or submit a pull request, or alternatively contact Emma Griffiths at emma_griffiths@sfu.ca
